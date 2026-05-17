@@ -74,17 +74,6 @@ This project demonstrates the complete lifecycle of building a **Data Warehouse*
 
 ---
 
-## 🛠️ Tools & Technologies  
-
-| Tool | Purpose |
-|------|--------|
-| 🐍 Python | Data Processing |
-| 🗄️ SQL (SSMS) | Data Transformation |
-| 📊 Excel | Analysis |
-| 🧩 Draw.io | Data Modeling |
-| 🔧 Git & GitHub | Version Control |
-
----
 
 ## 📊 Key Features  
 
