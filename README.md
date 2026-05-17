@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a modern data warehouse with SQL Server, Including ETL processes, data modeling and analytics.
+An end-to-end Data Warehouse project that transforms raw data into clean, structured, and analytics-ready insights using ETL pipelines (Bronze–Silver–Gold architecture). It includes data ingestion, cleaning, transformation, validation, and Star Schema modeling, following a scalable, production-like workflow with proper version control.
 
 
 # 🚀 Data Warehouse Project  
